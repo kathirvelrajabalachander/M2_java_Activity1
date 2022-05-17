@@ -8,10 +8,7 @@ import java.text.SimpleDateFormat;
 import java.util.Date;
 import javax.swing.JOptionPane;
 
-/**
- *
- * @author Pankaj Yadav
- */
+
 public class ReturnBook extends javax.swing.JFrame {
     
      Connection con;
