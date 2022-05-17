@@ -6,10 +6,7 @@ import java.sql.SQLException;
 import java.sql.Statement;
 import javax.swing.JOptionPane;
 
-/**
- *
- * @author Pankaj Yadav
- */
+
 public class RegisterStudent extends javax.swing.JFrame {
 
     Connection con;
