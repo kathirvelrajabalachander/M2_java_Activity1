@@ -6,10 +6,7 @@ import java.sql.Statement;
 import javax.swing.JOptionPane;
 import javax.swing.table.DefaultTableModel;
 
-/**
- *
- * @author Pankaj Yadav
- */
+
 public class IssuedBooks extends javax.swing.JFrame {
 
     Connection con;
