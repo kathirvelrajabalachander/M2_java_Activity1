@@ -8,10 +8,7 @@ import javax.swing.JOptionPane;
 import java.text.SimpleDateFormat;
 import java.util.Date;
 
-/**
- *
- * @author Pankaj Yadav
- */
+
 public class IssueBook extends javax.swing.JFrame {
 
     Connection con;
